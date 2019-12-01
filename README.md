@@ -25,7 +25,7 @@ This starter-kit was the main application for elios-mirror v1.0.0:
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within app-starter-kit , please send an e-mail to Taylor Otwell via [contact@elios-mirrro.com](mailto:contact@elios-mirrro.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within app-starter-kit , please send an e-mail to the EliOS team via [contact@elios-mirror.com](mailto:contact@elios-mirror.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
