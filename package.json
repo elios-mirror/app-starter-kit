@@ -21,7 +21,7 @@
   "author": "EliosMirror",
   "license": "ISC",
   "dependencies": {
-    "elios-sdk": "^0.2.2"
+    "elios-sdk": "^1.1.0"
   },
   "devDependencies": {
     "node-loader": "^0.6.0",
